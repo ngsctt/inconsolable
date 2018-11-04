@@ -7,7 +7,7 @@ code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove A
 name = Uppercase;
 }
 );
-copyright = "Copyright 2006 The Inconsolata Project Authors (https://github.com/cyrealtype/Inconsolata)";
+copyright = "Copyright 2006 Raph Levien; Copyright 2012 Cyreal, Google; Copyright 2018 Nathan Scott.";
 customParameters = (
 {
 name = license;
@@ -20,7 +20,7 @@ value = (
 },
 {
 name = vendorID;
-value = CYRE;
+value = NGS;
 },
 {
 name = licenseURL;
@@ -43,10 +43,10 @@ name = "Use Line Breaks";
 value = 1;
 }
 );
-date = "2018-03-22 19:47:13 +0000";
-designer = "Raph Levien, Cyreal, Brenton Simpson";
-designerURL = "http://www.levien.com | http://www.cyreal.org | http://appsforartists.com";
-familyName = Inconsolata;
+date = "2018-11-03 11:47:44 +0000";
+designer = "Raph Levien, Cyreal, Brenton Simpson, Nathan Scott";
+designerURL = "http://www.levien.com | http://www.cyreal.org | http://appsforartists.com | http://ngscott.net";
+familyName = Inconsolable;
 featurePrefixes = (
 {
 automatic = 1;
@@ -74431,6 +74431,7 @@ name = Bold;
 weightClass = Bold;
 },
 {
+exports = 0;
 customParameters = (
 {
 name = familyName;
@@ -74460,6 +74461,7 @@ instanceInterpolations = {
 name = Regular;
 },
 {
+exports = 0;
 customParameters = (
 {
 name = familyName;
@@ -74490,8 +74492,8 @@ name = Bold;
 weightClass = Bold;
 }
 );
-manufacturer = "Raph Levien, Cyreal, Google";
-manufacturerURL = "http://www.levien.com | http://www.cyreal.org | http://fonts.google.com";
+manufacturer = "Raph Levien, Cyreal, Google, Nathan Scott";
+manufacturerURL = "http://www.levien.com | http://www.cyreal.org | http://fonts.google.com | http://ngscott.net";
 unitsPerEm = 1000;
 userData = {
 GSDimensionPlugin.Dimensions = {
@@ -74519,6 +74521,6 @@ tH = "91";
 };
 };
 };
-versionMajor = 2;
-versionMinor = 13;
+versionMajor = 0;
+versionMinor = 6;
 }
