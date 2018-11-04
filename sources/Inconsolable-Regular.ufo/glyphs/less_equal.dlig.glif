@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="less_equal.dlig" format="1">
+  <advance width="1000"/>
+  <outline>
+    <component base="greater_equal.dlig" xScale="-1" xOffset="1000"/>
+  </outline>
+</glyph>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflexcomb_tildecomb" format="1">
+  <advance width="500"/>
+  <outline>
+    <component base="circumflexcomb" xOffset="8"/>
+    <component base="tildecomb.i" xOffset="-29" yOffset="158"/>
+    <contour>
+      <point x="255" y="467" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="255" y="801" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>tildecomb.i</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

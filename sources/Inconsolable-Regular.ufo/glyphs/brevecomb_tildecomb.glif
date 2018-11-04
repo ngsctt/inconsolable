@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="brevecomb_tildecomb" format="1">
+  <advance width="500"/>
+  <outline>
+    <component base="brevecomb"/>
+    <component base="tildecomb.i" xOffset="-1" yOffset="119"/>
+    <contour>
+      <point x="262" y="457" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="262" y="769" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>tildecomb.i</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

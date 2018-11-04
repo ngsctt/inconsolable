@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="won" format="1">
+  <advance width="500"/>
+  <unicode hex="20A9"/>
+  <outline>
+    <contour>
+      <point x="14" y="275" type="line"/>
+      <point x="489" y="275" type="line"/>
+      <point x="489" y="326" type="line"/>
+      <point x="14" y="326" type="line"/>
+    </contour>
+    <component base="W" xScale="0.9" xOffset="24"/>
+  </outline>
+</glyph>

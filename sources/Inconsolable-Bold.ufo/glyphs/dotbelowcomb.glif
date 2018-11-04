@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotbelowcomb" format="1">
+  <advance width="500"/>
+  <unicode hex="0323"/>
+  <outline>
+    <component base="period" xScale="0.9" yScale="0.9" xOffset="38" yOffset="-168"/>
+    <contour>
+      <point x="248" y="0" type="move" name="_bottom"/>
+    </contour>
+    <contour>
+      <point x="248" y="-191" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

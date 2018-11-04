@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dnthreeeighthsblock" format="1">
+  <advance width="600"/>
+  <unicode hex="2583"/>
+  <outline>
+    <contour>
+      <point x="0" y="-400" type="line"/>
+      <point x="600" y="-400" type="line"/>
+      <point x="600" y="125" type="line"/>
+      <point x="0" y="125" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.25,0.25,0.25,1</string>
+    </dict>
+  </lib>
+</glyph>

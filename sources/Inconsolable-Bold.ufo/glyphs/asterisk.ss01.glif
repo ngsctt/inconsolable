@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="asterisk.ss01" format="1">
+  <advance width="500"/>
+  <outline>
+    <component base="_part.asterisk" yOffset="77"/>
+  </outline>
+</glyph>

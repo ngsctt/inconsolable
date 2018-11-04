@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="z" format="1">
+  <advance width="500"/>
+  <unicode hex="007A"/>
+  <outline>
+    <contour>
+      <point x="50" y="0" type="line"/>
+      <point x="450" y="0" type="line"/>
+      <point x="450" y="62" type="line" name="_corner00"/>
+      <point x="148" y="62" type="line"/>
+      <point x="426" y="408" type="line"/>
+      <point x="426" y="457" type="line"/>
+      <point x="71" y="457" type="line"/>
+      <point x="71" y="394" type="line"/>
+      <point x="333" y="394" type="line"/>
+      <point x="50" y="49" type="line"/>
+    </contour>
+    <contour>
+      <point x="250" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="250" y="457" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.layer.corners</key>
+      <array>
+        <dict>
+          <key>name</key>
+          <string>_corner.topSpur</string>
+          <key>origin</key>
+          <string>_corner00</string>
+          <key>type</key>
+          <string>Corner</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

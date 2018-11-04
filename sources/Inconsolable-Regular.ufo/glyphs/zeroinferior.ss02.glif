@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zeroinferior.ss02" format="1">
+  <advance width="500"/>
+  <outline>
+    <component base="zerosuperior.ss02" yOffset="-262"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="returnsymbol" format="1">
+  <advance width="500"/>
+  <unicode hex="23CE"/>
+  <outline>
+    <contour>
+      <point x="320" y="457" type="line"/>
+      <point x="320" y="267" type="line"/>
+      <point x="192" y="267" type="line"/>
+      <point x="192" y="355" type="line"/>
+      <point x="172" y="355" type="line"/>
+      <point x="33" y="214" type="line"/>
+      <point x="33" y="188" type="line"/>
+      <point x="172" y="33" type="line"/>
+      <point x="190" y="33" type="line"/>
+      <point x="190" y="123" type="line"/>
+      <point x="460" y="123" type="line"/>
+      <point x="460" y="457" type="line"/>
+    </contour>
+    <contour>
+      <point x="360" y="417" type="line"/>
+      <point x="420" y="417" type="line"/>
+      <point x="420" y="163" type="line"/>
+      <point x="155" y="163" type="line"/>
+      <point x="155" y="74" type="line"/>
+      <point x="180" y="85" type="line"/>
+      <point x="79" y="199" type="line"/>
+      <point x="183" y="307" type="line"/>
+      <point x="157" y="320" type="line"/>
+      <point x="157" y="227" type="line"/>
+      <point x="360" y="227" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

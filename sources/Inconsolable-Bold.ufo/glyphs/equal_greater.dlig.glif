@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="equal_greater.dlig" format="1">
+  <advance width="1000"/>
+  <outline>
+    <contour>
+      <point x="429" y="618" type="line"/>
+      <point x="429" y="527" type="line"/>
+      <point x="814" y="320" type="line"/>
+      <point x="429" y="113" type="line"/>
+      <point x="429" y="22" type="line"/>
+      <point x="936" y="292" type="line"/>
+      <point x="936" y="348" type="line"/>
+    </contour>
+    <contour>
+      <point x="429" y="263" type="line"/>
+      <point x="429" y="22" type="line"/>
+      <point x="514" y="68" type="line"/>
+      <point x="514" y="263" type="line"/>
+    </contour>
+    <contour>
+      <point x="429" y="618" type="line"/>
+      <point x="429" y="388" type="line"/>
+      <point x="514" y="388" type="line"/>
+      <point x="514" y="572" type="line"/>
+    </contour>
+    <contour>
+      <point x="429" y="178" type="line"/>
+      <point x="429" y="263" type="line"/>
+      <point x="44" y="263" type="line"/>
+      <point x="44" y="178" type="line"/>
+    </contour>
+    <contour>
+      <point x="429" y="388" type="line"/>
+      <point x="429" y="473" type="line"/>
+      <point x="44" y="473" type="line"/>
+      <point x="44" y="388" type="line"/>
+    </contour>
+  </outline>
+</glyph>

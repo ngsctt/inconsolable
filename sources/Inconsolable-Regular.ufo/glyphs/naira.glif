@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="naira" format="1">
+  <advance width="500"/>
+  <unicode hex="20A6"/>
+  <outline>
+    <contour>
+      <point x="14" y="275" type="line"/>
+      <point x="489" y="275" type="line"/>
+      <point x="489" y="326" type="line"/>
+      <point x="14" y="326" type="line"/>
+    </contour>
+    <component base="N" xScale="0.9" xOffset="24"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>N</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

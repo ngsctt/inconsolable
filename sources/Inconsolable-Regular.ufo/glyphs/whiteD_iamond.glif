@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="whiteDiamond" format="1">
+  <advance width="500"/>
+  <unicode hex="25C7"/>
+  <outline>
+    <contour>
+      <point x="250" y="503" type="line"/>
+      <point x="25" y="278" type="line"/>
+      <point x="250" y="53" type="line"/>
+      <point x="475" y="278" type="line"/>
+    </contour>
+    <contour>
+      <point x="82" y="278" type="line"/>
+      <point x="250" y="446" type="line"/>
+      <point x="418" y="278" type="line"/>
+      <point x="250" y="110" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

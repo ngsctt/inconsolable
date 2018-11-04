@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="greater_equal.dlig" format="1">
+  <advance width="1000"/>
+  <outline>
+    <contour>
+      <point x="147" y="-67" type="line"/>
+      <point x="851" y="281" type="line"/>
+      <point x="851" y="357" type="line"/>
+      <point x="147" y="9" type="line"/>
+    </contour>
+    <contour>
+      <point x="147" y="130" type="line"/>
+      <point x="664" y="386" type="line"/>
+      <point x="664" y="444" type="line"/>
+      <point x="148" y="673" type="line"/>
+      <point x="148" y="574" type="line"/>
+      <point x="541" y="414" type="line"/>
+      <point x="147" y="237" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lightdiagupleftdnrightbxd" format="1">
+  <advance width="600"/>
+  <unicode hex="2572"/>
+  <outline>
+    <contour>
+      <point x="511" y="-300" type="line"/>
+      <point x="600" y="-300" type="line"/>
+      <point x="600" y="-121" type="line"/>
+      <point x="89" y="900" type="line"/>
+      <point x="0" y="900" type="line"/>
+      <point x="0" y="721" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.25,0.25,0.25,1</string>
+    </dict>
+  </lib>
+</glyph>

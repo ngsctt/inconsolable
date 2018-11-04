@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="brevecomb.case" format="1">
+  <advance width="500"/>
+  <outline>
+    <component base="breve.case" xOffset="-8" yOffset="10"/>
+    <contour>
+      <point x="250" y="623" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="250" y="778" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="commaaccentcomb" format="1">
+  <advance width="500"/>
+  <unicode hex="0326"/>
+  <outline>
+    <component base="comma" xScale="0.9" yScale="0.9" xOffset="28" yOffset="-124"/>
+    <contour>
+      <point x="236" y="0" type="move" name="_bottom"/>
+    </contour>
+    <contour>
+      <point x="236" y="-269" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

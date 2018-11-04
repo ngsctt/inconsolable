@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="won" format="1">
+  <advance width="500"/>
+  <unicode hex="20A9"/>
+  <outline>
+    <contour>
+      <point x="14" y="286" type="line"/>
+      <point x="489" y="286" type="line"/>
+      <point x="489" y="326" type="line"/>
+      <point x="14" y="326" type="line"/>
+    </contour>
+    <component base="W" xScale="0.9" xOffset="21"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>W</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

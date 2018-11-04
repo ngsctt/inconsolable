@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ezhreversed" format="1">
+  <advance width="500"/>
+  <unicode hex="01B9"/>
+  <outline>
+    <component base="Ezhreversed" xOffset="-5" yOffset="-156"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Ezhreversed</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

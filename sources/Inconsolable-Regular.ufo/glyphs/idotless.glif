@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="idotless" format="1">
+  <advance width="500"/>
+  <unicode hex="0131"/>
+  <outline>
+    <contour>
+      <point x="100" y="0" type="line"/>
+      <point x="396" y="0" type="line"/>
+      <point x="396" y="58" type="line"/>
+      <point x="289" y="58" type="line"/>
+      <point x="289" y="457" type="line"/>
+      <point x="106" y="457" type="line"/>
+      <point x="106" y="399" type="line"/>
+      <point x="217" y="399" type="line"/>
+      <point x="217" y="58" type="line"/>
+      <point x="100" y="58" type="line"/>
+    </contour>
+    <contour>
+      <point x="250" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="346" y="0" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="250" y="457" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

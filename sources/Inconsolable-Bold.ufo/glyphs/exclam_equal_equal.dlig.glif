@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="exclam_equal_equal.dlig" format="1">
+  <advance width="1500"/>
+  <outline>
+    <contour>
+      <point x="45" y="9" type="line"/>
+      <point x="1455" y="9" type="line"/>
+      <point x="1455" y="94" type="line"/>
+      <point x="45" y="94" type="line"/>
+    </contour>
+    <contour>
+      <point x="45" y="388" type="line"/>
+      <point x="1455" y="388" type="line"/>
+      <point x="1455" y="473" type="line"/>
+      <point x="45" y="473" type="line"/>
+    </contour>
+    <contour>
+      <point x="215" y="209" type="line"/>
+      <point x="1285" y="209" type="line"/>
+      <point x="1285" y="270" type="line"/>
+      <point x="215" y="270" type="line"/>
+    </contour>
+    <contour>
+      <point x="630" y="-121" type="line"/>
+      <point x="947" y="562" type="line"/>
+      <point x="872" y="601" type="line"/>
+      <point x="556" y="-84" type="line"/>
+    </contour>
+  </outline>
+</glyph>

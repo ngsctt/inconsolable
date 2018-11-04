@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflexcomb_hookabovecomb" format="1">
+  <advance width="500"/>
+  <outline>
+    <component base="circumflexcomb" xOffset="-1"/>
+    <component base="hookabovecomb" xOffset="136" yOffset="111"/>
+    <contour>
+      <point x="246" y="467" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="248" y="841" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>hookabovecomb</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="H" format="1">
+  <advance width="500"/>
+  <unicode hex="0048"/>
+  <outline>
+    <contour>
+      <point x="43" y="0" type="line"/>
+      <point x="158" y="0" type="line"/>
+      <point x="158" y="277" type="line"/>
+      <point x="342" y="277" type="line"/>
+      <point x="342" y="0" type="line"/>
+      <point x="457" y="0" type="line"/>
+      <point x="457" y="623" type="line" name="_corner01"/>
+      <point x="342" y="623" type="line"/>
+      <point x="342" y="370" type="line"/>
+      <point x="158" y="370" type="line"/>
+      <point x="158" y="623" type="line" name="_corner00"/>
+      <point x="43" y="623" type="line"/>
+    </contour>
+    <contour>
+      <point x="250" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="250" y="312" type="move" name="center"/>
+    </contour>
+    <contour>
+      <point x="250" y="623" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="20" y="623" type="move" name="topleft"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.layer.corners</key>
+      <array>
+        <dict>
+          <key>name</key>
+          <string>_corner.rightSpur</string>
+          <key>origin</key>
+          <string>_corner00</string>
+          <key>type</key>
+          <string>Corner</string>
+        </dict>
+        <dict>
+          <key>name</key>
+          <string>_corner.rightSpur</string>
+          <key>origin</key>
+          <string>_corner01</string>
+          <key>type</key>
+          <string>Corner</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

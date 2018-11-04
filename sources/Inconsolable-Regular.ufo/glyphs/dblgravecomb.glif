@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dblgravecomb" format="1">
+  <advance width="500"/>
+  <unicode hex="030F"/>
+  <outline>
+    <component base="gravecomb" xOffset="-59"/>
+    <component base="gravecomb" xOffset="101"/>
+    <contour>
+      <point x="271" y="457" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="251" y="629" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>gravecomb</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

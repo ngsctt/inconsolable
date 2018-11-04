@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ZdoubleStruck" format="1">
+  <advance width="500"/>
+  <unicode hex="2124"/>
+  <outline>
+    <contour>
+      <point x="376" y="618" type="line"/>
+      <point x="328" y="618" type="line"/>
+      <point x="50" y="49" type="line"/>
+      <point x="50" y="0" type="line"/>
+      <point x="463" y="0" type="line"/>
+      <point x="463" y="42" type="line" name="_corner00"/>
+      <point x="63" y="42" type="line"/>
+      <point x="88" y="21" type="line"/>
+    </contour>
+    <contour>
+      <point x="146" y="15" type="line"/>
+      <point x="196" y="15" type="line"/>
+      <point x="464" y="574" type="line"/>
+      <point x="464" y="623" type="line"/>
+      <point x="52" y="623" type="line"/>
+      <point x="52" y="580" type="line" name="_corner00"/>
+      <point x="453" y="580" type="line"/>
+      <point x="427" y="601" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.layer.corners</key>
+      <array>
+        <dict>
+          <key>name</key>
+          <string>_corner.topSpur</string>
+          <key>origin</key>
+          <string>_corner00</string>
+          <key>type</key>
+          <string>Corner</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uhorn" format="1">
+  <advance width="500"/>
+  <unicode hex="01B0"/>
+  <outline>
+    <component base="u.i"/>
+    <component base="horncomb" xOffset="-15"/>
+    <contour>
+      <point x="220" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="230" y="457" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

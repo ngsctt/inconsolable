@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="_corner.rightSpur" format="1">
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="199" y="-44" type="move"/>
+      <point x="199" y="-22"/>
+      <point x="201" y="-15"/>
+      <point x="209" y="-7" type="curve"/>
+      <point x="209" y="0" type="line"/>
+      <point x="199" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="200" y="0" type="move" name="origin"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

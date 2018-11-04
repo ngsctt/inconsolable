@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflexcomb_gravecomb" format="1">
+  <advance width="500"/>
+  <outline>
+    <component base="circumflexcomb" xOffset="8"/>
+    <component base="gravecomb" xOffset="130" yOffset="145"/>
+    <contour>
+      <point x="256" y="457" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="256" y="718" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>gravecomb</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

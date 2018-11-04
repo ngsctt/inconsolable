@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dong" format="1">
+  <advance width="500"/>
+  <unicode hex="20AB"/>
+  <outline>
+    <contour>
+      <point x="88" y="0" type="line"/>
+      <point x="451" y="0" type="line"/>
+      <point x="451" y="63" type="line"/>
+      <point x="88" y="63" type="line"/>
+    </contour>
+    <component base="d" xScale="0.8" yScale="0.78" xOffset="50" yOffset="115"/>
+    <component base="strokeshortcomb" yScale="0.9" xOffset="88" yOffset="263"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>d</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

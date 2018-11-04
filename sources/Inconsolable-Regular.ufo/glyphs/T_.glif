@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="T" format="1">
+  <advance width="500"/>
+  <unicode hex="0054"/>
+  <outline>
+    <contour>
+      <point x="208" y="0" type="line"/>
+      <point x="279" y="0" type="line"/>
+      <point x="279" y="561" type="line"/>
+      <point x="463" y="561" type="line"/>
+      <point x="463" y="624" type="line"/>
+      <point x="31" y="624" type="line"/>
+      <point x="31" y="561" type="line"/>
+      <point x="208" y="561" type="line"/>
+    </contour>
+    <contour>
+      <point x="250" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="244" y="312" type="move" name="center"/>
+    </contour>
+    <contour>
+      <point x="250" y="623" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

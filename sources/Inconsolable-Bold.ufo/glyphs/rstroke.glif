@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rstroke" format="1">
+  <advance width="500"/>
+  <unicode hex="024D"/>
+  <outline>
+    <contour>
+      <point x="28" y="171" type="line"/>
+      <point x="323" y="171" type="line"/>
+      <point x="323" y="242" type="line"/>
+      <point x="28" y="242" type="line"/>
+    </contour>
+    <component base="r"/>
+  </outline>
+</glyph>
