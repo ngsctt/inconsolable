@@ -1,12 +1,16 @@
 FONTLOG for the Inconsolata font
 
-This file provides detailed information on the Inconsolata Bold 
-font Software.
+This file provides detailed information on the Inconsolable 
+font software.
 
 This information should be distributed along with the 
-Inconsolata fonts and any derivative works.
+Inconsolable fonts and any derivative works.
 
 Basic Font Information
+
+Inconsolable is a Unicode typeface family, based on Inconsolata that
+supports languages that use the Latin script and its variants, and
+could be expanded to support other scripts.
 
 Inconsolata Bold is a Unicode typeface family that supports 
 languages that use the Latin script and its variants, and 
@@ -16,12 +20,15 @@ More specifically, this release supports the following Unicode
 ranges: Latin-1
 
 There are three source files:
-1. sources/legacy/Inconsolata-Regular.glyphs (Legacy version ported to Glyphs)
-2. sources/legacy/Inconsolata Bold-OTF.vfb (Merged contours)
-3. sources/legacy/Inconsolata Bold-TTF.vfb (TTF countours)
-4. sources/Inconsolata.glyphs (latest Glyphs file with two masters)
+1. sources/Inconsolata.glyphs (latest Glyphs file with two masters)
+2. sources/Inconsolata-Regular.UFO (latest UFO export of the Regular weight)
+3. sources/Inconsolata-Bold.UFO (latest UFO export of the Bold weight)
 
 ChangeLog
+
+4 November 2018 (Nathan Scott) Inconsolable v 0.006
+Change shape of t, use duospace sizing for emdash, adjust size
+of endash, tilt hyphen
 
 7 April 2017 (Alexei Vanyashin) Inconsolata v 2.002
 Restored vertical space to original amount between bars in equal signs(=). Fixes issue #8 https://github.com/cyrealtype/Inconsolata/issues/8
