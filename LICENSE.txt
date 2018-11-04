@@ -1,4 +1,4 @@
-Copyright 2006 The Inconsolata Project Authors (https://github.com/cyrealtype/Inconsolata)
+Copyright 2006 Raph Levien (@raphlinus); copyright 2012 Cyreal (@cyrealtype), Google LLC; modifications from 415ab8d2c531de4ebab25e56ca7f097e601ccab6 copyright 2018 Nathan Scott (@ngsctt).
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
