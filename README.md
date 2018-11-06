@@ -15,10 +15,4 @@ The original Inconsolata font is copyright 2006 Raph Levien. The subsequent file
 [OFL]:          http://scripts.sil.org/OFL
 
 ## Acknowledgements
-The following people contributed to the development of the Inconsolata source files I used to make Inconsolable:
-
-* Alexei Vanyashin <a@cyreal.org>
-* Brenton Simpson <bsimpson@appsforartists.com>
-* Kirill Tkachev <kiril_sun@list.ru>
-* Marc Foley <m.foley.88@googlemail.com>
-* Nhung Nguyen <vns.wonderland@gmail.com>
+See [`ACKNOWLEDGEMENTS.txt`](ACKNOWLEDGEMENTS.txt)
