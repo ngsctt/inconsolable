@@ -1,4 +1,4 @@
-FONTLOG for the Inconsolata font
+# FONTLOG for the Inconsolata font
 
 This file provides detailed information on the Inconsolable 
 font software.
@@ -6,11 +6,12 @@ font software.
 This information should be distributed along with the 
 Inconsolable fonts and any derivative works.
 
-Basic Font Information
 
-Inconsolable is a Unicode typeface family, based on Inconsolata that
-supports languages that use the Latin script and its variants, and
-could be expanded to support other scripts.
+## Basic Font Information
+
+Inconsolable is a Unicode typeface family, based on Inconsolata
+that supports languages that use the Latin script and its variants,
+and could be expanded to support other scripts.
 
 Inconsolata Bold is a Unicode typeface family that supports 
 languages that use the Latin script and its variants, and 
@@ -20,55 +21,63 @@ More specifically, this release supports the following Unicode
 ranges: Latin-1
 
 There are three source files:
-1. sources/Inconsolata.glyphs (latest Glyphs file with two masters)
-2. sources/Inconsolata-Regular.UFO (latest UFO export of the Regular weight)
-3. sources/Inconsolata-Bold.UFO (latest UFO export of the Bold weight)
+  1. sources/Inconsolata.glyphs (latest Glyphs file with two masters)
+  2. sources/Inconsolata-Regular.UFO (latest UFO export of the Regular weight)
+  3. sources/Inconsolata-Bold.UFO (latest UFO export of the Bold weight)
 
-ChangeLog
 
-4 November 2018 (Nathan Scott) Inconsolable v 0.006
+## ChangeLog
+
+### 4 November 2018 (Nathan Scott) Inconsolable v 0.006
 Change shape of t, use duospace sizing for emdash, adjust size
 of endash, tilt hyphen
 
-7 April 2017 (Alexei Vanyashin) Inconsolata v 2.002
+### 7 April 2017 (Alexei Vanyashin) Inconsolata v 2.002
 Restored vertical space to original amount between bars in equal signs(=). Fixes issue #8 https://github.com/cyrealtype/Inconsolata/issues/8
 
-10 February 2017 (Alexei Vanyashin) Inconsolata v 2.001
+### 10 February 2017 (Alexei Vanyashin) Inconsolata v 2.001
 Fixed issue #7 weird shapes on the terminals of s,j,J,G,r
 https://github.com/cyrealtype/Inconsolata/issues/7 
 
-19 August 2016 (Alexei Vanyashin) Inconsolata v 2.000
-
+### 19 August 2016 (Alexei Vanyashin) Inconsolata v 2.000
 — Extended charset to GF Latin Plus, GF Latin Pro
 — Added custom characters
 — Improved outline quality
 
-21 September 2015 (Dave Crossland) Inconsolata bold v. 1.016
+### 21 September 2015 (Dave Crossland) Inconsolata bold v. 1.016
 - Fixed internal metadata
 - Updated ttfautohint to v1.3
 
-18 September 2012 (Alexei Vanyashin) Inconsolata bold v. 1.014
+### 18 September 2012 (Alexei Vanyashin) Inconsolata bold v. 1.014
 - Fixed spacing issue associated with the character "4" and "0"
 - Applied ttfautohint (to fix windows rendering problem that occurred in v 1.000)
 
-7 December 2011 (Kirill Tkachev) Inconsolata Bold v. 1.000
+### 7 December 2011 (Kirill Tkachev) Inconsolata Bold v. 1.000
 - Completed Bold version of Inconsolata in VBF format.
+
+
+## Contributors
 
 If you make modifications be sure to add your name (N), 
 email (E), web-address (if you have one) (W) and description (D). 
 This list is in alphabetical order.
 
-N: Alexei Vanyashin
-W: http://cyreal.org
-E: a at cyreal.org
-D: Mastering, Expansion to GF Latin Pro
+Name:         Alexei Vanyashin
+Email:        a at cyreal.org
+Website:      http://cyreal.org
+Description:  Mastering, Expansion to GF Latin Pro
 
-N: Kirill Tkachev
-W: http://cyreal.org
-E: contact at cyreal.org
-D: Designer of Bold version
+Name:         Kirill Tkachev
+Email:        contact at cyreal.org
+Website:      http://cyreal.org
+Description:  Designer of Bold version
 
-N: Raph Levien
-E: firstname.lastname@gmail.com
-W: http://levien.com
-D: Original Designer
+Name:         Nathan Scott
+Email:        dev@ngscott.net
+Website:      http://ngscott.net
+Description:  Created Inconsolable modified font
+
+Name:         Raph Levien
+Email:        firstname.lastname@gmail.com
+Website:      http://levien.com
+Description:  Original Designer
