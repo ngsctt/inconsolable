@@ -40258,10 +40258,10 @@ paths = (
 {
 closed = 1;
 nodes = (
-"391 295 LINE",
-"391 386 LINE",
-"111 346 LINE",
-"111 255 LINE"
+"385 295 LINE",
+"397 386 LINE",
+"117 346 LINE",
+"105 255 LINE"
 );
 }
 );
@@ -40295,10 +40295,10 @@ paths = (
 {
 closed = 1;
 nodes = (
-"389 301 LINE",
-"393 368 LINE",
-"113 328 LINE",
-"109 261 LINE"
+"386 301 LINE",
+"396 368 LINE",
+"116 328 LINE",
+"106 261 LINE"
 );
 }
 );
@@ -74538,5 +74538,5 @@ tH = "91";
 };
 };
 versionMajor = 0;
-versionMinor = 6;
+versionMinor = 7;
 }
