@@ -10709,6 +10709,64 @@ width = 500;
 unicode = 1E5E;
 },
 {
+color = 3;
+glyphname = Rrotunda;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{250, 0}";
+},
+{
+name = top;
+position = "{250, 623}";
+}
+);
+layerId = "051EFAE4-8BBE-4FBB-A016-4335C3E52F59";
+paths = (
+{
+closed = 0;
+nodes = (
+"188 337 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"56 623 LINE",
+"230 623 LINE SMOOTH",
+"377 623 OFFCURVE",
+"437 552 OFFCURVE",
+"437 445 CURVE SMOOTH",
+"437 374 OFFCURVE",
+"337 297 OFFCURVE",
+"260 278 CURVE",
+"464 0 LINE",
+"386 0 LINE",
+"188 275 LINE",
+"188 337 LINE",
+"277 337 OFFCURVE",
+"365 380 OFFCURVE",
+"365 445 CURVE SMOOTH",
+"365 507 OFFCURVE",
+"327 557 OFFCURVE",
+"238 557 CURVE",
+"127 557 LINE",
+"56 557 LINE"
+);
+}
+);
+width = 500;
+},
+{
+layerId = UUID0;
+width = 600;
+}
+);
+unicode = A75A;
+},
+{
 glyphname = S;
 layers = (
 {
