@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="RumRotunda" format="1">
-  <advance width="1000"/>
+  <advance width="500"/>
   <unicode hex="A75C"/>
   <outline>
     <component base="Rrotunda"/>

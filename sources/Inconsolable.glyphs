@@ -1,7 +1,8 @@
 {
 .appVersion = "1230";
 DisplayStrings = (
-"/nmod.002"
+"/RumRotunda",
+"/RumMark"
 );
 classes = (
 {
@@ -10785,7 +10786,7 @@ transform = "{1, 0, 0, 1, -32, 25}";
 }
 );
 layerId = "051EFAE4-8BBE-4FBB-A016-4335C3E52F59";
-width = 1000;
+width = 500;
 },
 {
 layerId = UUID0;
