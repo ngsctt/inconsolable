@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="RumMark" format="1">
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="451" y="232" type="line"/>
+      <point x="489" y="175" type="line"/>
+      <point x="281" y="-19" type="line"/>
+      <point x="239" y="20" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

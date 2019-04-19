@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Pi" format="1">
+  <advance width="500"/>
+  <unicode hex="03A0"/>
+  <outline>
+    <contour>
+      <point x="50" y="0" type="line"/>
+      <point x="123" y="0" type="line"/>
+      <point x="123" y="563" type="line"/>
+      <point x="366" y="563" type="line"/>
+      <point x="366" y="0" type="line"/>
+      <point x="440" y="0" type="line"/>
+      <point x="440" y="563" type="line"/>
+      <point x="440" y="623" type="line" name="_corner00"/>
+      <point x="377" y="623" type="line"/>
+      <point x="133" y="623" type="line"/>
+      <point x="50" y="623" type="line"/>
+      <point x="50" y="563" type="line"/>
+    </contour>
+    <contour>
+      <point x="250" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="250" y="312" type="move" name="center"/>
+    </contour>
+    <contour>
+      <point x="250" y="623" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="20" y="623" type="move" name="topleft"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.layer.corners</key>
+      <array>
+        <dict>
+          <key>name</key>
+          <string>_corner.rightSpur</string>
+          <key>origin</key>
+          <string>_corner00</string>
+          <key>type</key>
+          <string>Corner</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
+    </dict>
+  </lib>
+</glyph>

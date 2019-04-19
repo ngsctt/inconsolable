@@ -4,13 +4,11 @@
 <dict>
 	<key>com.schriftgestaltung.DisplayStrings</key>
 	<array>
-		<string>-</string>
+		<string>/nmod.002</string>
 	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
 	<key>com.schriftgestaltung.disablesLastChange</key>
-	<true/>
-	<key>com.schriftgestaltung.font.Disable Last Change</key>
 	<true/>
 	<key>com.schriftgestaltung.font.Use Line Breaks</key>
 	<true/>
@@ -254,6 +252,8 @@
 		<string>Rdotbelow</string>
 		<string>Rinvertedbreve</string>
 		<string>Rlinebelow</string>
+		<string>Rrotunda</string>
+		<string>RumRotunda</string>
 		<string>S</string>
 		<string>Sacute</string>
 		<string>Sacutedotaccent</string>
@@ -355,6 +355,7 @@
 		<string>ccedilla</string>
 		<string>ccedillaacute</string>
 		<string>ccircumflex</string>
+		<string>ccurl</string>
 		<string>cdotaccent</string>
 		<string>d</string>
 		<string>eth</string>
@@ -561,10 +562,18 @@
 		<string>ordfeminine</string>
 		<string>ordmasculine</string>
 		<string>nmod</string>
-		<string>ZdoubleStruck</string>
+		<string>nmod.001</string>
+		<string>nmod.002</string>
+		<string>Delta</string>
+		<string>Pi</string>
+		<string>alpha</string>
+		<string>beta</string>
+		<string>delta</string>
 		<string>CdoubleStruck</string>
 		<string>NdoubleStruck</string>
+		<string>PdoubleStruck</string>
 		<string>RdoubleStruck</string>
+		<string>ZdoubleStruck</string>
 		<string>zero</string>
 		<string>one</string>
 		<string>two</string>
@@ -629,54 +638,54 @@
 		<string>zero.dnom.zero</string>
 		<string>zero.numr.zero</string>
 		<string>zerosuperior.zero</string>
-		<string>asterisk</string>
-		<string>backslash</string>
-		<string>periodcentered</string>
-		<string>bullet</string>
-		<string>colon</string>
+		<string>period</string>
 		<string>comma</string>
+		<string>colon</string>
+		<string>semicolon</string>
 		<string>ellipsis</string>
 		<string>exclam</string>
 		<string>exclamdown</string>
-		<string>hypodiastole</string>
-		<string>numbersign</string>
-		<string>period</string>
 		<string>question</string>
 		<string>questiondown</string>
-		<string>quotedbl</string>
-		<string>quotesingle</string>
-		<string>semicolon</string>
+		<string>periodcentered</string>
+		<string>bullet</string>
+		<string>asterisk</string>
+		<string>hypodiastole</string>
+		<string>numbersign</string>
 		<string>slash</string>
-		<string>underscore</string>
+		<string>backslash</string>
 		<string>periodcentered.loclCAT</string>
 		<string>asterisk.ss01</string>
-		<string>quotedbl.ss03</string>
-		<string>quotesingle.ss03</string>
+		<string>parenleft</string>
+		<string>parenright</string>
 		<string>braceleft</string>
 		<string>braceright</string>
 		<string>bracketleft</string>
 		<string>bracketright</string>
-		<string>parenleft</string>
-		<string>parenright</string>
-		<string>emdash</string>
+		<string>hyphen</string>
+		<string>softhyphen</string>
 		<string>endash</string>
+		<string>emdash</string>
 		<string>figuredash</string>
 		<string>horizontalbar</string>
-		<string>hyphen</string>
 		<string>hyphentwo</string>
-		<string>softhyphen</string>
-		<string>guillemetleft</string>
-		<string>guillemetright</string>
-		<string>guilsinglleft</string>
-		<string>guilsinglright</string>
+		<string>underscore</string>
+		<string>quotesinglbase</string>
 		<string>quotedblbase</string>
 		<string>quotedblleft</string>
 		<string>quotedblright</string>
 		<string>quoteleft</string>
 		<string>quoteright</string>
-		<string>quotesinglbase</string>
-		<string>exclam_equal_equal.dlig</string>
+		<string>guillemetleft</string>
+		<string>guillemetright</string>
+		<string>guilsinglleft</string>
+		<string>guilsinglright</string>
+		<string>quotedbl</string>
+		<string>quotesingle</string>
+		<string>quotedbl.ss03</string>
+		<string>quotesingle.ss03</string>
 		<string>hyphen_greater.dlig</string>
+		<string>exclam_equal_equal.dlig</string>
 		<string>figurespace</string>
 		<string>hairspace</string>
 		<string>punctuationspace</string>
@@ -727,6 +736,7 @@
 		<string>approxequal</string>
 		<string>asciitilde</string>
 		<string>logicalnot</string>
+		<string>asciicircum</string>
 		<string>infinity</string>
 		<string>emptyset</string>
 		<string>integral</string>
@@ -741,6 +751,7 @@
 		<string>perthousand</string>
 		<string>plus.circled</string>
 		<string>asciitilde.ss01</string>
+		<string>asciicircum.ss01</string>
 		<string>upArrow</string>
 		<string>northEastArrow</string>
 		<string>rightArrow</string>
@@ -944,6 +955,8 @@
 		<string>registered</string>
 		<string>trademark</string>
 		<string>degree</string>
+		<string>minute</string>
+		<string>second</string>
 		<string>bar</string>
 		<string>brokenbar</string>
 		<string>dagger</string>
@@ -951,7 +964,6 @@
 		<string>daggerdbl</string>
 		<string>numero</string>
 		<string>estimated</string>
-		<string>asciicircum</string>
 		<string>blank</string>
 		<string>brokenCircleNorthWestArrow</string>
 		<string>house</string>
@@ -962,18 +974,27 @@
 		<string>optionKey</string>
 		<string>propellor</string>
 		<string>returnsymbol</string>
-		<string>minute</string>
-		<string>second</string>
 		<string>uniFFFD</string>
-		<string>asciicircum.ss01</string>
 		<string>skullAndCrossbones</string>
 		<string>bellsymbol</string>
+		<string>prescription</string>
 		<string>equal_equal_equal.dlig</string>
 		<string>equal_greater.dlig</string>
 		<string>greater_equal.dlig</string>
 		<string>less_hyphen.dlig</string>
 		<string>less_equal.dlig</string>
 		<string>lowernumeral-greek</string>
+		<string>apostrophemod</string>
+		<string>commaturnedmod</string>
+		<string>doubleprimemod</string>
+		<string>firsttonechinese</string>
+		<string>fourthtonechinese</string>
+		<string>primemod</string>
+		<string>ringhalfleft</string>
+		<string>ringhalfright</string>
+		<string>secondtonechinese</string>
+		<string>verticallinelowmod</string>
+		<string>verticallinemod</string>
 		<string>dieresiscomb</string>
 		<string>dotaccentcomb</string>
 		<string>gravecomb</string>
@@ -1000,29 +1021,6 @@
 		<string>macronbelowcomb</string>
 		<string>strokeshortcomb</string>
 		<string>strokelongcomb</string>
-		<string>dieresiscomb.case</string>
-		<string>dotaccentcomb.case</string>
-		<string>gravecomb.case</string>
-		<string>acutecomb.case</string>
-		<string>hungarumlautcomb.case</string>
-		<string>circumflexcomb.case</string>
-		<string>caroncomb.case</string>
-		<string>brevecomb.case</string>
-		<string>ringcomb.case</string>
-		<string>tildecomb.case</string>
-		<string>horncomb.case</string>
-		<string>tildecomb.i</string>
-		<string>apostrophemod</string>
-		<string>commaturnedmod</string>
-		<string>doubleprimemod</string>
-		<string>firsttonechinese</string>
-		<string>fourthtonechinese</string>
-		<string>primemod</string>
-		<string>ringhalfleft</string>
-		<string>ringhalfright</string>
-		<string>secondtonechinese</string>
-		<string>verticallinelowmod</string>
-		<string>verticallinemod</string>
 		<string>acute</string>
 		<string>breve</string>
 		<string>caron</string>
@@ -1036,6 +1034,17 @@
 		<string>ogonek</string>
 		<string>ring</string>
 		<string>tilde</string>
+		<string>dieresiscomb.case</string>
+		<string>dotaccentcomb.case</string>
+		<string>gravecomb.case</string>
+		<string>acutecomb.case</string>
+		<string>hungarumlautcomb.case</string>
+		<string>circumflexcomb.case</string>
+		<string>caroncomb.case</string>
+		<string>brevecomb.case</string>
+		<string>ringcomb.case</string>
+		<string>tildecomb.case</string>
+		<string>horncomb.case</string>
 		<string>acute.case</string>
 		<string>breve.case</string>
 		<string>caron.case</string>
@@ -1045,6 +1054,7 @@
 		<string>hungarumlaut.case</string>
 		<string>ring.case</string>
 		<string>tilde.case</string>
+		<string>tildecomb.i</string>
 		<string>brevecomb_acutecomb</string>
 		<string>brevecomb_gravecomb</string>
 		<string>brevecomb_hookabovecomb</string>
@@ -1057,12 +1067,15 @@
 		<string>circumflexcomb_gravecomb.case</string>
 		<string>circumflexcomb_hookabovecomb.case</string>
 		<string>circumflexcomb_tildecomb.case</string>
+		<string>NULL</string>
 		<string>_corner.leftSpur</string>
 		<string>_corner.rightSpur</string>
 		<string>_corner.topSpur</string>
 		<string>_part.asterisk</string>
-		<string>NULL</string>
+		<string>each</string>
+		<string>Ccurl</string>
 		<string>uniF40A</string>
+		<string>RumMark</string>
 	</array>
 </dict>
 </plist>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="PdoubleStruck" format="1">
+  <advance width="500"/>
+  <unicode hex="2119"/>
+  <outline>
+    <contour>
+      <point x="30" y="337" type="line"/>
+      <point x="30" y="275" type="line"/>
+      <point x="264" y="275" type="line" smooth="yes"/>
+      <point x="399" y="275"/>
+      <point x="456" y="351"/>
+      <point x="456" y="447" type="curve" smooth="yes"/>
+      <point x="456" y="544"/>
+      <point x="398" y="623"/>
+      <point x="259" y="623" type="curve" smooth="yes"/>
+      <point x="21" y="623" type="line"/>
+      <point x="21" y="0" type="line"/>
+      <point x="71" y="0" type="line"/>
+      <point x="71" y="557" type="line"/>
+      <point x="109" y="557" type="line"/>
+      <point x="109" y="0" type="line"/>
+      <point x="159" y="0" type="line"/>
+      <point x="159" y="557" type="line"/>
+      <point x="257" y="557" type="line"/>
+      <point x="346" y="557"/>
+      <point x="384" y="506"/>
+      <point x="384" y="445" type="curve" smooth="yes"/>
+      <point x="384" y="380"/>
+      <point x="347" y="337"/>
+      <point x="256" y="337" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="93" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="165" y="199" type="move" name="center"/>
+    </contour>
+    <contour>
+      <point x="250" y="623" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
+    </dict>
+  </lib>
+</glyph>

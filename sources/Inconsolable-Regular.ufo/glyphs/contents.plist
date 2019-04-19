@@ -74,6 +74,8 @@
 	<string>C_cedillaacute.glif</string>
 	<key>Ccircumflex</key>
 	<string>C_circumflex.glif</string>
+	<key>Ccurl</key>
+	<string>C_curl.glif</string>
 	<key>Cdotaccent</key>
 	<string>C_dotaccent.glif</string>
 	<key>CdoubleStruck</key>
@@ -86,6 +88,8 @@
 	<string>D_croat.glif</string>
 	<key>Ddotbelow</key>
 	<string>D_dotbelow.glif</string>
+	<key>Delta</key>
+	<string>D_elta.glif</string>
 	<key>Dlinebelow</key>
 	<string>D_linebelow.glif</string>
 	<key>E</key>
@@ -326,6 +330,10 @@
 	<string>O_tildemacron.glif</string>
 	<key>P</key>
 	<string>P_.glif</string>
+	<key>PdoubleStruck</key>
+	<string>P_doubleS_truck.glif</string>
+	<key>Pi</key>
+	<string>P_i.glif</string>
 	<key>Q</key>
 	<string>Q_.glif</string>
 	<key>R</key>
@@ -346,6 +354,12 @@
 	<string>R_invertedbreve.glif</string>
 	<key>Rlinebelow</key>
 	<string>R_linebelow.glif</string>
+	<key>Rrotunda</key>
+	<string>R_rotunda.glif</string>
+	<key>RumMark</key>
+	<string>R_umM_ark.glif</string>
+	<key>RumRotunda</key>
+	<string>R_umR_otunda.glif</string>
 	<key>S</key>
 	<string>S_.glif</string>
 	<key>Sacute</key>
@@ -540,6 +554,8 @@
 	<string>ahookabove.glif</string>
 	<key>ainvertedbreve</key>
 	<string>ainvertedbreve.glif</string>
+	<key>alpha</key>
+	<string>alpha.glif</string>
 	<key>amacron</key>
 	<string>amacron.glif</string>
 	<key>ampersand</key>
@@ -582,6 +598,8 @@
 	<string>bar.glif</string>
 	<key>bellsymbol</key>
 	<string>bellsymbol.glif</string>
+	<key>beta</key>
+	<string>beta.glif</string>
 	<key>bilabialclick</key>
 	<string>bilabialclick.glif</string>
 	<key>blackCircle</key>
@@ -652,6 +670,8 @@
 	<string>ccedillaacute.glif</string>
 	<key>ccircumflex</key>
 	<string>ccircumflex.glif</string>
+	<key>ccurl</key>
+	<string>ccurl.glif</string>
 	<key>cdotaccent</key>
 	<string>cdotaccent.glif</string>
 	<key>cedi</key>
@@ -750,6 +770,8 @@
 	<string>deleteL_eftK_ey.glif</string>
 	<key>deleterightKey</key>
 	<string>deleterightK_ey.glif</string>
+	<key>delta</key>
+	<string>delta.glif</string>
 	<key>diamondBlackSuit</key>
 	<string>diamondB_lackS_uit.glif</string>
 	<key>dieresis</key>
@@ -846,6 +868,8 @@
 	<string>downW_hiteA_rrow.glif</string>
 	<key>e</key>
 	<string>e.glif</string>
+	<key>each</key>
+	<string>each.glif</string>
 	<key>eacute</key>
 	<string>eacute.glif</string>
 	<key>ebreve</key>
@@ -1348,6 +1372,10 @@
 	<string>nlinebelow.glif</string>
 	<key>nmod</key>
 	<string>nmod.glif</string>
+	<key>nmod.001</key>
+	<string>nmod.001.glif</string>
+	<key>nmod.002</key>
+	<string>nmod.002.glif</string>
 	<key>northEastArrow</key>
 	<string>northE_astA_rrow.glif</string>
 	<key>northWestArrow</key>
@@ -1484,6 +1512,8 @@
 	<string>plus.circled.glif</string>
 	<key>plusminus</key>
 	<string>plusminus.glif</string>
+	<key>prescription</key>
+	<string>prescription.glif</string>
 	<key>primemod</key>
 	<string>primemod.glif</string>
 	<key>product</key>

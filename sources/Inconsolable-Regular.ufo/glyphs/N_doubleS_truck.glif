@@ -3,14 +3,47 @@
   <advance width="500"/>
   <unicode hex="2115"/>
   <outline>
-    <component base="N"/>
+    <contour>
+      <point x="141" y="580" type="line"/>
+      <point x="157" y="580" type="line"/>
+      <point x="380" y="173" type="line"/>
+      <point x="380" y="91" type="line"/>
+      <point x="119" y="580" type="line"/>
+    </contour>
+    <contour>
+      <point x="50" y="623" type="line"/>
+      <point x="50" y="0" type="line"/>
+      <point x="117" y="0" type="line"/>
+      <point x="117" y="500" type="line"/>
+      <point x="392" y="0" type="line"/>
+      <point x="447" y="0" type="line"/>
+      <point x="447" y="623" type="line"/>
+      <point x="380" y="623" type="line"/>
+      <point x="380" y="231" type="line"/>
+      <point x="178" y="623" type="line"/>
+    </contour>
+    <contour>
+      <point x="250" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="250" y="623" type="move" name="top"/>
+    </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
+      <key>com.schriftgestaltung.Glyphs.layer.corners</key>
+      <array>
+        <dict>
+          <key>name</key>
+          <string>_corner.rightSpur</string>
+          <key>origin</key>
+          <string>_corner00</string>
+          <key>type</key>
+          <string>Corner</string>
+        </dict>
+      </array>
       <key>public.markColor</key>
-      <string>0.98,0.36,0.67,1</string>
+      <string>0.97,0.9,0,1</string>
     </dict>
   </lib>
 </glyph>
