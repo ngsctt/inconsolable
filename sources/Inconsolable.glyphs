@@ -10767,6 +10767,31 @@ width = 600;
 unicode = A75A;
 },
 {
+color = 3;
+glyphname = RumRotunda;
+layers = (
+{
+components = (
+{
+name = Rrotunda;
+},
+{
+alignment = -1;
+name = RumMark;
+transform = "{1, 0, 0, 1, -32, 25}";
+}
+);
+layerId = "051EFAE4-8BBE-4FBB-A016-4335C3E52F59";
+width = 1000;
+},
+{
+layerId = UUID0;
+width = 600;
+}
+);
+unicode = A75C;
+},
+{
 glyphname = S;
 layers = (
 {
@@ -74591,6 +74616,31 @@ width = 500;
 }
 );
 unicode = F40A;
+},
+{
+export = 0;
+glyphname = RumMark;
+layers = (
+{
+layerId = "051EFAE4-8BBE-4FBB-A016-4335C3E52F59";
+paths = (
+{
+closed = 1;
+nodes = (
+"489 175 LINE",
+"281 -19 LINE",
+"239 20 LINE",
+"451 232 LINE"
+);
+}
+);
+width = 500;
+},
+{
+layerId = UUID0;
+width = 600;
+}
+);
 }
 );
 instances = (
