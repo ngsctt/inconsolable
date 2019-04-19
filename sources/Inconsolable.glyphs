@@ -68510,6 +68510,22 @@ width = 500;
 unicode = 237E;
 },
 {
+color = 3;
+export = 0;
+glyphname = prescription;
+layers = (
+{
+layerId = "051EFAE4-8BBE-4FBB-A016-4335C3E52F59";
+width = 600;
+},
+{
+layerId = UUID0;
+width = 600;
+}
+);
+unicode = 211E;
+},
+{
 glyphname = equal_equal_equal.dlig;
 layers = (
 {
