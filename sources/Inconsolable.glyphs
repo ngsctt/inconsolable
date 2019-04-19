@@ -32273,6 +32273,7 @@ width = 500;
 unicode = 207F;
 },
 {
+color = 3;
 glyphname = ZdoubleStruck;
 layers = (
 {
@@ -32357,17 +32358,70 @@ width = 500;
 unicode = 2124;
 },
 {
-color = 9;
-export = 0;
+color = 3;
 glyphname = CdoubleStruck;
 layers = (
 {
-components = (
+anchors = (
 {
-name = C;
+name = bottom;
+position = "{280, 0}";
+},
+{
+name = top;
+position = "{270, 623}";
+}
+);
+hints = (
+{
+origin = "{0, 15}";
+type = Corner;
+name = _corner.rightSpur;
 }
 );
 layerId = "051EFAE4-8BBE-4FBB-A016-4335C3E52F59";
+paths = (
+{
+closed = 1;
+nodes = (
+"366 -10 OFFCURVE",
+"420 25 OFFCURVE",
+"460 92 CURVE",
+"408 126 LINE",
+"380 79 OFFCURVE",
+"332 40 OFFCURVE",
+"282 40 CURVE SMOOTH",
+"186 40 OFFCURVE",
+"79 107 OFFCURVE",
+"79 313 CURVE SMOOTH",
+"79 526 OFFCURVE",
+"174 582 OFFCURVE",
+"279 582 CURVE SMOOTH",
+"326 582 OFFCURVE",
+"371 553 OFFCURVE",
+"408 477 CURVE",
+"469 505 LINE",
+"437 579 OFFCURVE",
+"371 628 OFFCURVE",
+"281 628 CURVE SMOOTH",
+"186 628 OFFCURVE",
+"34 596 OFFCURVE",
+"34 308 CURVE",
+"35 28 OFFCURVE",
+"187 -10 OFFCURVE",
+"285 -10 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"132 549 LINE",
+"132 70 LINE",
+"171 70 LINE",
+"171 549 LINE"
+);
+}
+);
 width = 500;
 },
 {
@@ -32383,17 +32437,55 @@ width = 500;
 unicode = 2102;
 },
 {
-color = 9;
-export = 0;
+color = 3;
 glyphname = NdoubleStruck;
 layers = (
 {
-components = (
+anchors = (
 {
-name = N;
+name = bottom;
+position = "{250, 0}";
+},
+{
+name = top;
+position = "{250, 623}";
+}
+);
+hints = (
+{
+origin = "{1, 5}";
+type = Corner;
+name = _corner.rightSpur;
 }
 );
 layerId = "051EFAE4-8BBE-4FBB-A016-4335C3E52F59";
+paths = (
+{
+closed = 1;
+nodes = (
+"157 580 LINE",
+"380 173 LINE",
+"380 91 LINE",
+"119 580 LINE",
+"141 580 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"50 0 LINE",
+"117 0 LINE",
+"117 500 LINE",
+"392 0 LINE",
+"447 0 LINE",
+"447 623 LINE",
+"380 623 LINE",
+"380 231 LINE",
+"178 623 LINE",
+"50 623 LINE"
+);
+}
+);
 width = 500;
 },
 {
@@ -32409,17 +32501,57 @@ width = 500;
 unicode = 2115;
 },
 {
-color = 9;
-export = 0;
+color = 3;
 glyphname = RdoubleStruck;
 layers = (
 {
-components = (
+anchors = (
 {
-name = R;
+name = bottom;
+position = "{250, 0}";
+},
+{
+name = top;
+position = "{250, 623}";
 }
 );
 layerId = "051EFAE4-8BBE-4FBB-A016-4335C3E52F59";
+paths = (
+{
+closed = 1;
+nodes = (
+"107 0 LINE",
+"157 0 LINE",
+"157 557 LINE",
+"248 557 LINE",
+"337 557 OFFCURVE",
+"375 507 OFFCURVE",
+"375 445 CURVE SMOOTH",
+"375 380 OFFCURVE",
+"337 337 OFFCURVE",
+"248 337 CURVE SMOOTH",
+"157 337 LINE",
+"24 337 LINE",
+"24 275 LINE",
+"157 275 LINE",
+"248 275 LINE",
+"386 0 LINE",
+"464 0 LINE",
+"320 278 LINE",
+"397 297 OFFCURVE",
+"447 374 OFFCURVE",
+"447 445 CURVE SMOOTH",
+"447 552 OFFCURVE",
+"387 623 OFFCURVE",
+"240 623 CURVE SMOOTH",
+"19 623 LINE",
+"19 0 LINE",
+"69 0 LINE",
+"69 557 LINE",
+"107 557 LINE"
+);
+}
+);
 width = 500;
 },
 {
