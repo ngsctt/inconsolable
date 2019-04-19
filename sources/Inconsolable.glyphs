@@ -6010,6 +6010,10 @@ name = bottom;
 position = "{250, 0}";
 },
 {
+name = center;
+position = "{330, 338}";
+},
+{
 name = top;
 position = "{330, 623}";
 }
@@ -9888,6 +9892,10 @@ name = bottom;
 position = "{93, 0}";
 },
 {
+name = center;
+position = "{165, 199}";
+},
+{
 name = top;
 position = "{250, 623}";
 }
@@ -13339,6 +13347,10 @@ anchors = (
 {
 name = bottom;
 position = "{254, 0}";
+},
+{
+name = center;
+position = "{255, 407}";
 },
 {
 name = top;
@@ -25824,7 +25836,11 @@ width = 500;
 anchors = (
 {
 name = bottom;
-position = "{270, 0}";
+position = "{134, -167}";
+},
+{
+name = center;
+position = "{169, -82}";
 },
 {
 name = top;
