@@ -70130,21 +70130,28 @@ width = 500;
 unicode = 0335;
 },
 {
+color = 3;
 glyphname = strokelongcomb;
 layers = (
 {
 anchors = (
 {
 name = _center;
-position = "{251, 315}";
-}
-);
-components = (
-{
-name = hyphen;
+position = "{256, 315}";
 }
 );
 layerId = "051EFAE4-8BBE-4FBB-A016-4335C3E52F59";
+paths = (
+{
+closed = 1;
+nodes = (
+"485 286 LINE",
+"485 343 LINE",
+"15 343 LINE",
+"15 286 LINE"
+);
+}
+);
 width = 500;
 },
 {
