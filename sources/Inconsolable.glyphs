@@ -1,5 +1,8 @@
 {
-.appVersion = "1141";
+.appVersion = "1230";
+DisplayStrings = (
+"/nmod.002"
+);
 classes = (
 {
 automatic = 1;
@@ -75582,5 +75585,5 @@ tH = "91";
 };
 };
 versionMajor = 0;
-versionMinor = 7;
+versionMinor = 9;
 }
