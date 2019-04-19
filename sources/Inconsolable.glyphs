@@ -32502,6 +32502,71 @@ unicode = 2115;
 },
 {
 color = 3;
+glyphname = PdoubleStruck;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{93, 0}";
+},
+{
+name = center;
+position = "{165, 199}";
+},
+{
+name = top;
+position = "{250, 623}";
+}
+);
+layerId = "051EFAE4-8BBE-4FBB-A016-4335C3E52F59";
+paths = (
+{
+closed = 1;
+nodes = (
+"30 275 LINE",
+"264 275 LINE SMOOTH",
+"399 275 OFFCURVE",
+"456 351 OFFCURVE",
+"456 447 CURVE SMOOTH",
+"456 544 OFFCURVE",
+"398 623 OFFCURVE",
+"259 623 CURVE SMOOTH",
+"21 623 LINE",
+"21 0 LINE",
+"71 0 LINE",
+"71 557 LINE",
+"109 557 LINE",
+"109 0 LINE",
+"159 0 LINE",
+"159 557 LINE",
+"257 557 LINE",
+"346 557 OFFCURVE",
+"384 506 OFFCURVE",
+"384 445 CURVE SMOOTH",
+"384 380 OFFCURVE",
+"347 337 OFFCURVE",
+"256 337 CURVE SMOOTH",
+"30 337 LINE"
+);
+}
+);
+width = 500;
+},
+{
+components = (
+{
+name = P;
+}
+);
+layerId = UUID0;
+width = 500;
+}
+);
+unicode = 2119;
+},
+{
+color = 3;
 glyphname = RdoubleStruck;
 layers = (
 {
