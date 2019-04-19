@@ -17091,6 +17091,88 @@ width = 500;
 unicode = 0109;
 },
 {
+glyphname = ccurl;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{286, 0}";
+},
+{
+name = top;
+position = "{286, 457}";
+}
+);
+hints = (
+{
+origin = "{0, 33}";
+type = Corner;
+name = _corner.rightSpur;
+}
+);
+layerId = "051EFAE4-8BBE-4FBB-A016-4335C3E52F59";
+paths = (
+{
+closed = 1;
+nodes = (
+"349 -11 OFFCURVE",
+"409 13 OFFCURVE",
+"449 60 CURVE SMOOTH",
+"484 101 OFFCURVE",
+"490 175 OFFCURVE",
+"416 215 CURVE SMOOTH",
+"361 245 OFFCURVE",
+"281 229 OFFCURVE",
+"231 185 CURVE SMOOTH",
+"155 120 OFFCURVE",
+"110 46 OFFCURVE",
+"46 -56 CURVE",
+"101 -92 LINE",
+"160 6 OFFCURVE",
+"186 55 OFFCURVE",
+"238 113 CURVE SMOOTH",
+"280 159 OFFCURVE",
+"315 179 OFFCURVE",
+"361 174 CURVE SMOOTH",
+"404 169 OFFCURVE",
+"424 130 OFFCURVE",
+"401 99 CURVE SMOOTH",
+"376 65 OFFCURVE",
+"335 54 OFFCURVE",
+"289 54 CURVE SMOOTH",
+"197 54 OFFCURVE",
+"130 130 OFFCURVE",
+"130 233 CURVE SMOOTH",
+"130 338 OFFCURVE",
+"199 405 OFFCURVE",
+"276 405 CURVE SMOOTH",
+"335 405 OFFCURVE",
+"372 387 OFFCURVE",
+"411 336 CURVE",
+"457 381 LINE",
+"420 434 OFFCURVE",
+"358 466 OFFCURVE",
+"284 466 CURVE SMOOTH",
+"152 466 OFFCURVE",
+"56 365 OFFCURVE",
+"56 228 CURVE SMOOTH",
+"56 90 OFFCURVE",
+"152 -11 OFFCURVE",
+"285 -11 CURVE"
+);
+}
+);
+width = 500;
+},
+{
+layerId = UUID0;
+width = 600;
+}
+);
+unicode = 0255;
+},
+{
 glyphname = cdotaccent;
 layers = (
 {
